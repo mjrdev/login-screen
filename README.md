@@ -1,3 +1,3 @@
 ## Tela de login Básica em HTML/CSS
 
-<![login-screen](/static/login-screen.png)
+![login-screen](/static/login-screen.png)
